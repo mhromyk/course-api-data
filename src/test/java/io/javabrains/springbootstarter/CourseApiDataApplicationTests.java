@@ -1,4 +1,4 @@
-package io.javabrains.courseapidata;
+package io.javabrains.springbootstarter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

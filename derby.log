@@ -1,8 +1,8 @@
 ----------------------------------------------------------------
-Tue Jul 17 18:32:27 CEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-a915-fbe8-00000f83c930 
-on database directory memory:C:\springbootWorkspace\course-api-data\testdb with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
-Loaded from file:/C:/Users/Maksym_Hromyk/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+Wed Jul 18 16:10:33 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-adba-6b39-000020d619e8 
+on database directory memory:C:\springbootWorkspace\course-api-data\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@2e5d6d97 
+Loaded from jar:file:/C:/springbootWorkspace/course-api-data/target/course-api-data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.1.0.jar!/
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_131-b11
 user.dir=C:\springbootWorkspace\course-api-data
